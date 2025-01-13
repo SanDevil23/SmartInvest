@@ -1,0 +1,11 @@
+Name,Age,Income (INR),Investment Horizon (Years),Loss Tolerance,Net Worth (INR),Debt-to-Income Ratio
+Alice,25,50000,15,High,1000000,0.1
+Bob,45,100000,5,Low,2000000,0.3
+Charlie,30,75000,10,Medium,1500000,0.2
+Diana,60,30000,3,Low,500000,0.4
+Ethan,35,90000,12,High,1800000,0.15
+Fiona,50,45000,7,Low,800000,0.35
+George,29,80000,20,High,1600000,0.2
+Hannah,40,70000,8,Medium,1200000,0.25
+Ian,33,95000,10,High,1700000,0.1
+Jasmine,55,40000,4,Low,600000,0.3
