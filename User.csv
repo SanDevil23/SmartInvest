@@ -1,0 +1,101 @@
+Monthly_Income,Investment_Percentage,Emergency_Fund," ""Debt_Level"""," ""Investment_Goals"""," ""Expected_Returns"""," ""Volatility_Reaction"""," ""Loss_Reaction"""," ""Risk_Allocation"""," ""Company_type"""," ""Sector_Preference"""," ""Review_Freq""",Experience_Level," ""Decision_Tools""",LowerBound,UpperBound
+"₹50,000–₹1,00,000",10%–20%,"No, but working on it",None or less than 10%,Long-term wealth creation,10%–15%,Stay calm and buy more,increase,Less than 25%,small,Sector-specific,1,2,Extensive,50000,100000
+"Above ₹1,00,000",Less than 10%,Yes,10%–30%,Short-term gains,10%–15%,Stay calm and buy more,hold,More than 50%,small,Diversified portfolio,3,3,Rarely,100001,1000000
+"Above ₹1,00,000",10%–20%,Yes,10%–30%,Steady returns,Above 15%,Stay calm and buy more,increase,25%–50%,small,General market,3,3,Extensive,100001,1000000
+"₹50,000–₹1,00,000",More than 20%,No,10%–30%,Short-term gains,Be1 10%,Stay calm and buy more,increase,25%–50%,mid,Diversified portfolio,3,2,Sometimes,50000,100000
+"Be1 ₹50,000",Less than 10%,"No, but working on it",10%–30%,Long-term wealth creation,10%–15%,Stay calm and buy more,sell,25%–50%,mid,General market,3,2,Rarely,0,49999
+"Be1 ₹50,000",10%–20%,Yes,More than 30%,Short-term gains,Above 15%,Hold and wait,hold,Less than 25%,large,Diversified portfolio,1,2,Rarely,0,49999
+"Be1 ₹50,000",10%–20%,Yes,10%–30%,Long-term wealth creation,Be1 10%,Stay calm and buy more,sell,Less than 25%,large,Diversified portfolio,1,2,Rarely,0,49999
+"Above ₹1,00,000",Less than 10%,"No, but working on it",None or less than 10%,Long-term wealth creation,Be1 10%,Stay calm and buy more,increase,Less than 25%,mid,General market,2,2,Rarely,100001,1000000
+"₹50,000–₹1,00,000",Less than 10%,Yes,10%–30%,Short-term gains,Be1 10%,Hold and wait,hold,25%–50%,small,Sector-specific,2,3,Sometimes,50000,100000
+"Above ₹1,00,000",Less than 10%,Yes,None or less than 10%,Long-term wealth creation,10%–15%,Hold and wait,hold,More than 50%,mid,Diversified portfolio,1,1,Rarely,100001,1000000
+"Be1 ₹50,000",Less than 10%,"No, but working on it",10%–30%,Long-term wealth creation,10%–15%,Stay calm and buy more,hold,Less than 25%,mid,Sector-specific,3,2,Extensive,0,49999
+"Above ₹1,00,000",More than 20%,"No, but working on it",None or less than 10%,Short-term gains,10%–15%,Hold and wait,hold,Less than 25%,small,General market,1,2,Rarely,100001,1000000
+"Above ₹1,00,000",More than 20%,"No, but working on it",None or less than 10%,Short-term gains,Be1 10%,Hold and wait,hold,More than 50%,mid,General market,1,3,Sometimes,100001,1000000
+"Be1 ₹50,000",10%–20%,Yes,More than 30%,Steady returns,Be1 10%,Stay calm and buy more,hold,Less than 25%,mid,Sector-specific,2,2,Rarely,0,49999
+"Be1 ₹50,000",More than 20%,"No, but working on it",More than 30%,Steady returns,Above 15%,Panic and sell,sell,Less than 25%,mid,Diversified portfolio,2,2,Sometimes,0,49999
+"Be1 ₹50,000",More than 20%,Yes,10%–30%,Long-term wealth creation,Above 15%,Panic and sell,sell,25%–50%,mid,General market,2,3,Sometimes,0,49999
+"₹50,000–₹1,00,000",Less than 10%,Yes,10%–30%,Long-term wealth creation,Above 15%,Stay calm and buy more,sell,25%–50%,small,Sector-specific,1,3,Sometimes,50000,100000
+"₹50,000–₹1,00,000",More than 20%,"No, but working on it",None or less than 10%,Long-term wealth creation,Be1 10%,Stay calm and buy more,increase,25%–50%,large,Diversified portfolio,3,2,Rarely,50000,100000
+"₹50,000–₹1,00,000",10%–20%,"No, but working on it",None or less than 10%,Steady returns,Be1 10%,Panic and sell,hold,More than 50%,large,General market,1,2,Extensive,50000,100000
+"Be1 ₹50,000",More than 20%,No,None or less than 10%,Steady returns,Above 15%,Hold and wait,sell,25%–50%,small,Sector-specific,1,3,Extensive,0,49999
+"₹50,000–₹1,00,000",More than 20%,"No, but working on it",10%–30%,Steady returns,10%–15%,Stay calm and buy more,increase,Less than 25%,large,Diversified portfolio,3,1,Extensive,50000,100000
+"Be1 ₹50,000",Less than 10%,"No, but working on it",10%–30%,Steady returns,Above 15%,Stay calm and buy more,increase,More than 50%,mid,Sector-specific,3,3,Extensive,0,49999
+"Be1 ₹50,000",Less than 10%,Yes,10%–30%,Long-term wealth creation,Be1 10%,Stay calm and buy more,hold,25%–50%,large,General market,3,2,Rarely,0,49999
+"₹50,000–₹1,00,000",Less than 10%,Yes,None or less than 10%,Long-term wealth creation,Be1 10%,Hold and wait,hold,25%–50%,large,General market,3,1,Extensive,50000,100000
+"₹50,000–₹1,00,000",10%–20%,Yes,More than 30%,Long-term wealth creation,Be1 10%,Hold and wait,sell,25%–50%,mid,General market,2,2,Rarely,50000,100000
+"Above ₹1,00,000",More than 20%,Yes,10%–30%,Steady returns,10%–15%,Stay calm and buy more,increase,Less than 25%,small,Diversified portfolio,2,2,Sometimes,100001,1000000
+"Be1 ₹50,000",More than 20%,No,10%–30%,Long-term wealth creation,10%–15%,Hold and wait,hold,25%–50%,small,General market,1,2,Extensive,0,49999
+"₹50,000–₹1,00,000",Less than 10%,Yes,10%–30%,Short-term gains,Above 15%,Hold and wait,increase,25%–50%,mid,General market,2,3,Rarely,50000,100000
+"₹50,000–₹1,00,000",10%–20%,No,10%–30%,Long-term wealth creation,Above 15%,Stay calm and buy more,increase,Less than 25%,mid,Diversified portfolio,1,1,Sometimes,50000,100000
+"Be1 ₹50,000",10%–20%,"No, but working on it",None or less than 10%,Long-term wealth creation,Be1 10%,Stay calm and buy more,increase,25%–50%,small,General market,1,2,Sometimes,0,49999
+"₹50,000–₹1,00,000",Less than 10%,"No, but working on it",None or less than 10%,Long-term wealth creation,Be1 10%,Hold and wait,sell,More than 50%,small,Sector-specific,2,1,Sometimes,50000,100000
+"Be1 ₹50,000",Less than 10%,"No, but working on it",10%–30%,Steady returns,Be1 10%,Panic and sell,hold,25%–50%,large,Diversified portfolio,2,3,Rarely,0,49999
+"Be1 ₹50,000",Less than 10%,"No, but working on it",None or less than 10%,Steady returns,Be1 10%,Hold and wait,hold,More than 50%,large,Sector-specific,1,3,Extensive,0,49999
+"Above ₹1,00,000",More than 20%,Yes,None or less than 10%,Long-term wealth creation,10%–15%,Hold and wait,hold,More than 50%,mid,Sector-specific,1,3,Rarely,100001,1000000
+"Above ₹1,00,000",Less than 10%,Yes,None or less than 10%,Long-term wealth creation,10%–15%,Stay calm and buy more,sell,25%–50%,small,Sector-specific,2,2,Rarely,100001,1000000
+"Above ₹1,00,000",10%–20%,"No, but working on it",None or less than 10%,Steady returns,Be1 10%,Hold and wait,hold,25%–50%,small,Diversified portfolio,1,2,Sometimes,100001,1000000
+"₹50,000–₹1,00,000",10%–20%,Yes,More than 30%,Long-term wealth creation,Be1 10%,Hold and wait,sell,Less than 25%,small,Diversified portfolio,3,1,Extensive,50000,100000
+"Be1 ₹50,000",Less than 10%,Yes,10%–30%,Short-term gains,Above 15%,Stay calm and buy more,hold,25%–50%,large,Diversified portfolio,2,2,Sometimes,0,49999
+"₹50,000–₹1,00,000",More than 20%,"No, but working on it",10%–30%,Steady returns,10%–15%,Stay calm and buy more,hold,25%–50%,small,Sector-specific,2,1,Extensive,50000,100000
+"₹50,000–₹1,00,000",More than 20%,Yes,None or less than 10%,Long-term wealth creation,Above 15%,Stay calm and buy more,hold,25%–50%,mid,Diversified portfolio,2,3,Extensive,50000,100000
+"Be1 ₹50,000",Less than 10%,No,10%–30%,Long-term wealth creation,Be1 10%,Stay calm and buy more,hold,More than 50%,small,Diversified portfolio,3,1,Extensive,0,49999
+"₹50,000–₹1,00,000",10%–20%,No,10%–30%,Short-term gains,10%–15%,Stay calm and buy more,hold,25%–50%,mid,Diversified portfolio,1,2,Sometimes,50000,100000
+"Be1 ₹50,000",Less than 10%,No,None or less than 10%,Long-term wealth creation,Above 15%,Stay calm and buy more,hold,More than 50%,mid,Diversified portfolio,2,2,Rarely,0,49999
+"Above ₹1,00,000",Less than 10%,Yes,10%–30%,Long-term wealth creation,10%–15%,Stay calm and buy more,increase,Less than 25%,large,Diversified portfolio,2,1,Rarely,100001,1000000
+"Be1 ₹50,000",Less than 10%,Yes,None or less than 10%,Short-term gains,10%–15%,Stay calm and buy more,sell,More than 50%,small,General market,1,2,Rarely,0,49999
+"₹50,000–₹1,00,000",10%–20%,No,10%–30%,Short-term gains,Above 15%,Panic and sell,hold,25%–50%,small,Diversified portfolio,3,2,Sometimes,50000,100000
+"₹50,000–₹1,00,000",10%–20%,Yes,10%–30%,Short-term gains,Above 15%,Hold and wait,hold,More than 50%,small,Sector-specific,2,3,Sometimes,50000,100000
+"₹50,000–₹1,00,000",Less than 10%,No,None or less than 10%,Steady returns,10%–15%,Hold and wait,sell,Less than 25%,large,Sector-specific,2,3,Sometimes,50000,100000
+"₹50,000–₹1,00,000",Less than 10%,No,None or less than 10%,Long-term wealth creation,10%–15%,Hold and wait,hold,25%–50%,large,General market,3,1,Rarely,50000,100000
+"Be1 ₹50,000",More than 20%,No,10%–30%,Long-term wealth creation,10%–15%,Hold and wait,increase,25%–50%,mid,Sector-specific,3,2,Extensive,0,49999
+"Above ₹1,00,000",Less than 10%,Yes,10%–30%,Steady returns,10%–15%,Stay calm and buy more,sell,More than 50%,mid,General market,2,2,Rarely,100001,1000000
+"Above ₹1,00,000",Less than 10%,Yes,More than 30%,Steady returns,Be1 10%,Hold and wait,hold,Less than 25%,mid,Diversified portfolio,3,2,Sometimes,100001,1000000
+"Above ₹1,00,000",10%–20%,No,10%–30%,Long-term wealth creation,10%–15%,Hold and wait,hold,More than 50%,small,General market,2,3,Sometimes,100001,1000000
+"Above ₹1,00,000",More than 20%,Yes,None or less than 10%,Short-term gains,10%–15%,Hold and wait,increase,Less than 25%,large,Diversified portfolio,2,3,Rarely,100001,1000000
+"₹50,000–₹1,00,000",Less than 10%,Yes,None or less than 10%,Long-term wealth creation,Be1 10%,Hold and wait,hold,More than 50%,mid,General market,2,2,Sometimes,50000,100000
+"Above ₹1,00,000",10%–20%,"No, but working on it",10%–30%,Long-term wealth creation,10%–15%,Stay calm and buy more,hold,More than 50%,mid,Diversified portfolio,2,2,Rarely,100001,1000000
+"Be1 ₹50,000",10%–20%,No,None or less than 10%,Long-term wealth creation,Above 15%,Stay calm and buy more,hold,More than 50%,mid,Diversified portfolio,1,3,Rarely,0,49999
+"Be1 ₹50,000",Less than 10%,"No, but working on it",10%–30%,Long-term wealth creation,Above 15%,Stay calm and buy more,sell,25%–50%,small,Diversified portfolio,3,2,Sometimes,0,49999
+"Be1 ₹50,000",10%–20%,"No, but working on it",More than 30%,Long-term wealth creation,10%–15%,Hold and wait,hold,25%–50%,small,Diversified portfolio,3,3,Extensive,0,49999
+"₹50,000–₹1,00,000",Less than 10%,Yes,10%–30%,Long-term wealth creation,10%–15%,Hold and wait,increase,More than 50%,large,Diversified portfolio,1,2,Sometimes,50000,100000
+"₹50,000–₹1,00,000",10%–20%,"No, but working on it",None or less than 10%,Long-term wealth creation,10%–15%,Stay calm and buy more,hold,Less than 25%,small,General market,3,3,Rarely,50000,100000
+"Be1 ₹50,000",10%–20%,No,10%–30%,Steady returns,Above 15%,Panic and sell,increase,25%–50%,mid,General market,1,2,Extensive,0,49999
+"Above ₹1,00,000",10%–20%,Yes,10%–30%,Steady returns,Above 15%,Hold and wait,hold,25%–50%,small,Diversified portfolio,1,2,Sometimes,100001,1000000
+"₹50,000–₹1,00,000",Less than 10%,"No, but working on it",10%–30%,Steady returns,Above 15%,Stay calm and buy more,increase,25%–50%,mid,Diversified portfolio,2,2,Sometimes,50000,100000
+"Be1 ₹50,000",More than 20%,No,More than 30%,Short-term gains,Above 15%,Stay calm and buy more,hold,25%–50%,small,Diversified portfolio,1,3,Rarely,0,49999
+"₹50,000–₹1,00,000",Less than 10%,"No, but working on it",None or less than 10%,Long-term wealth creation,10%–15%,Stay calm and buy more,hold,25%–50%,mid,Diversified portfolio,3,3,Extensive,50000,100000
+"Be1 ₹50,000",Less than 10%,"No, but working on it",More than 30%,Long-term wealth creation,Above 15%,Stay calm and buy more,sell,More than 50%,large,Sector-specific,3,2,Rarely,0,49999
+"Above ₹1,00,000",Less than 10%,"No, but working on it",More than 30%,Short-term gains,10%–15%,Stay calm and buy more,hold,More than 50%,small,Sector-specific,2,2,Rarely,100001,1000000
+"Be1 ₹50,000",10%–20%,Yes,None or less than 10%,Long-term wealth creation,Be1 10%,Stay calm and buy more,sell,Less than 25%,mid,Diversified portfolio,1,2,Extensive,0,49999
+"Above ₹1,00,000",10%–20%,Yes,None or less than 10%,Short-term gains,Above 15%,Stay calm and buy more,increase,Less than 25%,mid,Sector-specific,1,3,Extensive,100001,1000000
+"Above ₹1,00,000",Less than 10%,No,None or less than 10%,Long-term wealth creation,10%–15%,Stay calm and buy more,sell,25%–50%,mid,Sector-specific,2,2,Rarely,100001,1000000
+"Be1 ₹50,000",10%–20%,No,None or less than 10%,Short-term gains,10%–15%,Panic and sell,increase,More than 50%,large,Sector-specific,3,1,Extensive,0,49999
+"Be1 ₹50,000",Less than 10%,No,None or less than 10%,Long-term wealth creation,Above 15%,Stay calm and buy more,hold,25%–50%,large,Sector-specific,2,2,Rarely,0,49999
+"Above ₹1,00,000",10%–20%,No,10%–30%,Short-term gains,10%–15%,Hold and wait,hold,25%–50%,small,Sector-specific,1,3,Sometimes,100001,1000000
+"Above ₹1,00,000",Less than 10%,"No, but working on it",None or less than 10%,Steady returns,Be1 10%,Hold and wait,increase,More than 50%,small,General market,2,2,Extensive,100001,1000000
+"Above ₹1,00,000",10%–20%,"No, but working on it",None or less than 10%,Short-term gains,Be1 10%,Panic and sell,increase,More than 50%,small,Diversified portfolio,2,3,Rarely,100001,1000000
+"Above ₹1,00,000",Less than 10%,"No, but working on it",More than 30%,Long-term wealth creation,Above 15%,Stay calm and buy more,hold,Less than 25%,mid,Diversified portfolio,2,3,Sometimes,100001,1000000
+"Be1 ₹50,000",More than 20%,"No, but working on it",None or less than 10%,Steady returns,Be1 10%,Stay calm and buy more,hold,25%–50%,small,Diversified portfolio,1,1,Sometimes,0,49999
+"₹50,000–₹1,00,000",Less than 10%,"No, but working on it",More than 30%,Short-term gains,10%–15%,Panic and sell,hold,More than 50%,mid,Sector-specific,2,3,Sometimes,50000,100000
+"Be1 ₹50,000",Less than 10%,"No, but working on it",None or less than 10%,Steady returns,Above 15%,Panic and sell,hold,More than 50%,mid,General market,2,2,Sometimes,0,49999
+"Above ₹1,00,000",Less than 10%,No,None or less than 10%,Steady returns,10%–15%,Panic and sell,hold,More than 50%,mid,Diversified portfolio,3,2,Extensive,100001,1000000
+"₹50,000–₹1,00,000",More than 20%,Yes,10%–30%,Steady returns,Be1 10%,Stay calm and buy more,increase,25%–50%,large,Sector-specific,1,2,Sometimes,50000,100000
+"₹50,000–₹1,00,000",More than 20%,Yes,10%–30%,Long-term wealth creation,10%–15%,Stay calm and buy more,hold,More than 50%,small,Diversified portfolio,2,2,Rarely,50000,100000
+"Be1 ₹50,000",Less than 10%,Yes,More than 30%,Steady returns,Above 15%,Hold and wait,increase,More than 50%,small,General market,3,3,Extensive,0,49999
+"₹50,000–₹1,00,000",10%–20%,"No, but working on it",10%–30%,Steady returns,10%–15%,Panic and sell,sell,Less than 25%,large,General market,1,2,Sometimes,50000,100000
+"₹50,000–₹1,00,000",More than 20%,Yes,More than 30%,Short-term gains,Above 15%,Hold and wait,hold,More than 50%,mid,Diversified portfolio,3,2,Sometimes,50000,100000
+"Above ₹1,00,000",10%–20%,Yes,None or less than 10%,Long-term wealth creation,Above 15%,Hold and wait,hold,25%–50%,mid,Diversified portfolio,2,3,Rarely,100001,1000000
+"₹50,000–₹1,00,000",10%–20%,"No, but working on it",None or less than 10%,Long-term wealth creation,Above 15%,Stay calm and buy more,hold,More than 50%,mid,Sector-specific,1,2,Extensive,50000,100000
+"Above ₹1,00,000",Less than 10%,Yes,10%–30%,Short-term gains,Above 15%,Hold and wait,sell,More than 50%,small,General market,1,3,Rarely,100001,1000000
+"₹50,000–₹1,00,000",Less than 10%,"No, but working on it",More than 30%,Short-term gains,Above 15%,Stay calm and buy more,increase,More than 50%,large,Sector-specific,2,3,Sometimes,50000,100000
+"Be1 ₹50,000",More than 20%,Yes,More than 30%,Long-term wealth creation,Above 15%,Stay calm and buy more,hold,Less than 25%,large,General market,1,2,Extensive,0,49999
+"Above ₹1,00,000",More than 20%,Yes,10%–30%,Steady returns,10%–15%,Hold and wait,hold,Less than 25%,mid,Diversified portfolio,2,3,Extensive,100001,1000000
+"Above ₹1,00,000",10%–20%,No,None or less than 10%,Long-term wealth creation,Above 15%,Hold and wait,hold,Less than 25%,small,Diversified portfolio,1,2,Extensive,100001,1000000
+"₹50,000–₹1,00,000",Less than 10%,Yes,10%–30%,Long-term wealth creation,Above 15%,Stay calm and buy more,increase,25%–50%,mid,Diversified portfolio,2,2,Sometimes,50000,100000
+"Above ₹1,00,000",Less than 10%,Yes,None or less than 10%,Long-term wealth creation,Be1 10%,Stay calm and buy more,sell,25%–50%,mid,Sector-specific,1,1,Sometimes,100001,1000000
+"₹50,000–₹1,00,000",10%–20%,"No, but working on it",More than 30%,Long-term wealth creation,10%–15%,Hold and wait,sell,More than 50%,small,Sector-specific,3,3,Rarely,50000,100000
+"₹50,000–₹1,00,000",More than 20%,"No, but working on it",More than 30%,Steady returns,10%–15%,Stay calm and buy more,hold,More than 50%,large,Sector-specific,3,3,Sometimes,50000,100000
+"₹50,000–₹1,00,000",More than 20%,Yes,10%–30%,Long-term wealth creation,Above 15%,Hold and wait,hold,Less than 25%,small,Sector-specific,3,3,Extensive,50000,100000
+"Be1 ₹50,000",10%–20%,"No, but working on it",10%–30%,Short-term gains,Above 15%,Stay calm and buy more,sell,More than 50%,large,Diversified portfolio,2,2,Sometimes,0,49999
+"Be1 ₹50,000",,Yes,10%–30%,Short-term gains,Above 15%,Hold and wait,,More than 50%,mid,Diversified portfolio,1,2,Rarely,0,49999
