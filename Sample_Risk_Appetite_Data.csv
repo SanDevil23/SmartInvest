@@ -1,0 +1,101 @@
+Monthly_Income,Investment_Percentage,Emergency_Fund,Debt_Level,Investment_Goal,Expected_Return,Volatility_Reaction,Loss_Reaction,High_Risk_Allocation,Company_Type,Sector_Preference,Review_Frequency,Experience_Level,Decision_Tools
+"₹50,000–₹1,00,000",Less than 10%,"No, but working on it",None or less than 10%,Long-term wealth creation,10%–15%,Stay calm and buy more,Hold the stock,Less than 25%,Small-cap,Sector-specific,Frequently,Moderate,Extensive
+"Above ₹1,00,000",10%–20%,Yes,10%–30%,Short-term gains,10%–15%,Stay calm and buy more,Increase investment,More than 50%,Small-cap,Diversified portfolio,Rarely,High,Rarely
+"Above ₹1,00,000",Less than 10%,Yes,10%–30%,Steady returns,Above 15%,Stay calm and buy more,Hold the stock,25%–50%,Small-cap,General market,Rarely,High,Extensive
+"₹50,000–₹1,00,000",10%–20%,No,10%–30%,Short-term gains,Below 10%,Stay calm and buy more,Increase investment,25%–50%,Mid-cap,Diversified portfolio,Rarely,Moderate,Sometimes
+"Below ₹50,000",More than 20%,"No, but working on it",10%–30%,Long-term wealth creation,10%–15%,Stay calm and buy more,Increase investment,25%–50%,Mid-cap,General market,Rarely,Moderate,Rarely
+"Below ₹50,000",Less than 10%,Yes,More than 30%,Short-term gains,Above 15%,Hold and wait,Sell to cut losses,Less than 25%,Large-cap,Diversified portfolio,Frequently,Moderate,Rarely
+"Below ₹50,000",10%–20%,Yes,10%–30%,Long-term wealth creation,Below 10%,Stay calm and buy more,Hold the stock,Less than 25%,Large-cap,Diversified portfolio,Frequently,Moderate,Rarely
+"Above ₹1,00,000",10%–20%,"No, but working on it",None or less than 10%,Long-term wealth creation,Below 10%,Stay calm and buy more,Sell to cut losses,Less than 25%,Mid-cap,General market,Occasionally,Moderate,Rarely
+"₹50,000–₹1,00,000",Less than 10%,Yes,10%–30%,Short-term gains,Below 10%,Hold and wait,Increase investment,25%–50%,Small-cap,Sector-specific,Occasionally,High,Sometimes
+"Above ₹1,00,000",Less than 10%,Yes,None or less than 10%,Long-term wealth creation,10%–15%,Hold and wait,Hold the stock,More than 50%,Mid-cap,Diversified portfolio,Frequently,Low,Rarely
+"Below ₹50,000",Less than 10%,"No, but working on it",10%–30%,Long-term wealth creation,10%–15%,Stay calm and buy more,Hold the stock,Less than 25%,Mid-cap,Sector-specific,Rarely,Moderate,Extensive
+"Above ₹1,00,000",Less than 10%,"No, but working on it",None or less than 10%,Short-term gains,10%–15%,Hold and wait,Hold the stock,Less than 25%,Small-cap,General market,Frequently,Moderate,Rarely
+"Above ₹1,00,000",More than 20%,"No, but working on it",None or less than 10%,Short-term gains,Below 10%,Hold and wait,Hold the stock,More than 50%,Mid-cap,General market,Frequently,High,Sometimes
+"Below ₹50,000",More than 20%,Yes,More than 30%,Steady returns,Below 10%,Stay calm and buy more,Hold the stock,Less than 25%,Mid-cap,Sector-specific,Occasionally,Moderate,Rarely
+"Below ₹50,000",10%–20%,"No, but working on it",More than 30%,Steady returns,Above 15%,Panic and sell,Hold the stock,Less than 25%,Mid-cap,Diversified portfolio,Occasionally,Moderate,Sometimes
+"Below ₹50,000",More than 20%,Yes,10%–30%,Long-term wealth creation,Above 15%,Panic and sell,Sell to cut losses,25%–50%,Mid-cap,General market,Occasionally,High,Sometimes
+"₹50,000–₹1,00,000",More than 20%,Yes,10%–30%,Long-term wealth creation,Above 15%,Stay calm and buy more,Sell to cut losses,25%–50%,Small-cap,Sector-specific,Frequently,High,Sometimes
+"₹50,000–₹1,00,000",Less than 10%,"No, but working on it",None or less than 10%,Long-term wealth creation,Below 10%,Stay calm and buy more,Sell to cut losses,25%–50%,Large-cap,Diversified portfolio,Rarely,Moderate,Rarely
+"₹50,000–₹1,00,000",More than 20%,"No, but working on it",None or less than 10%,Steady returns,Below 10%,Panic and sell,Increase investment,More than 50%,Large-cap,General market,Frequently,Moderate,Extensive
+"Below ₹50,000",10%–20%,No,None or less than 10%,Steady returns,Above 15%,Hold and wait,Hold the stock,25%–50%,Small-cap,Sector-specific,Frequently,High,Extensive
+"₹50,000–₹1,00,000",More than 20%,"No, but working on it",10%–30%,Steady returns,10%–15%,Stay calm and buy more,Sell to cut losses,Less than 25%,Large-cap,Diversified portfolio,Rarely,Low,Extensive
+"Below ₹50,000",More than 20%,"No, but working on it",10%–30%,Steady returns,Above 15%,Stay calm and buy more,Increase investment,More than 50%,Mid-cap,Sector-specific,Rarely,High,Extensive
+"Below ₹50,000",Less than 10%,Yes,10%–30%,Long-term wealth creation,Below 10%,Stay calm and buy more,Increase investment,25%–50%,Large-cap,General market,Rarely,Moderate,Rarely
+"₹50,000–₹1,00,000",Less than 10%,Yes,None or less than 10%,Long-term wealth creation,Below 10%,Hold and wait,Hold the stock,25%–50%,Large-cap,General market,Rarely,Low,Extensive
+"₹50,000–₹1,00,000",Less than 10%,Yes,More than 30%,Long-term wealth creation,Below 10%,Hold and wait,Hold the stock,25%–50%,Mid-cap,General market,Occasionally,Moderate,Rarely
+"Above ₹1,00,000",10%–20%,Yes,10%–30%,Steady returns,10%–15%,Stay calm and buy more,Sell to cut losses,Less than 25%,Small-cap,Diversified portfolio,Occasionally,Moderate,Sometimes
+"Below ₹50,000",More than 20%,No,10%–30%,Long-term wealth creation,10%–15%,Hold and wait,Increase investment,25%–50%,Small-cap,General market,Frequently,Moderate,Extensive
+"₹50,000–₹1,00,000",More than 20%,Yes,10%–30%,Short-term gains,Above 15%,Hold and wait,Hold the stock,25%–50%,Mid-cap,General market,Occasionally,High,Rarely
+"₹50,000–₹1,00,000",Less than 10%,No,10%–30%,Long-term wealth creation,Above 15%,Stay calm and buy more,Increase investment,Less than 25%,Mid-cap,Diversified portfolio,Frequently,Low,Sometimes
+"Below ₹50,000",10%–20%,"No, but working on it",None or less than 10%,Long-term wealth creation,Below 10%,Stay calm and buy more,Increase investment,25%–50%,Small-cap,General market,Frequently,Moderate,Sometimes
+"₹50,000–₹1,00,000",10%–20%,"No, but working on it",None or less than 10%,Long-term wealth creation,Below 10%,Hold and wait,Increase investment,More than 50%,Small-cap,Sector-specific,Occasionally,Low,Sometimes
+"Below ₹50,000",Less than 10%,"No, but working on it",10%–30%,Steady returns,Below 10%,Panic and sell,Sell to cut losses,25%–50%,Large-cap,Diversified portfolio,Occasionally,High,Rarely
+"Below ₹50,000",Less than 10%,"No, but working on it",None or less than 10%,Steady returns,Below 10%,Hold and wait,Hold the stock,More than 50%,Large-cap,Sector-specific,Frequently,High,Extensive
+"Above ₹1,00,000",Less than 10%,Yes,None or less than 10%,Long-term wealth creation,10%–15%,Hold and wait,Hold the stock,More than 50%,Mid-cap,Sector-specific,Frequently,High,Rarely
+"Above ₹1,00,000",More than 20%,Yes,None or less than 10%,Long-term wealth creation,10%–15%,Stay calm and buy more,Hold the stock,25%–50%,Small-cap,Sector-specific,Occasionally,Moderate,Rarely
+"Above ₹1,00,000",Less than 10%,"No, but working on it",None or less than 10%,Steady returns,Below 10%,Hold and wait,Sell to cut losses,25%–50%,Small-cap,Diversified portfolio,Frequently,Moderate,Sometimes
+"₹50,000–₹1,00,000",10%–20%,Yes,More than 30%,Long-term wealth creation,Below 10%,Hold and wait,Hold the stock,Less than 25%,Small-cap,Diversified portfolio,Rarely,Low,Extensive
+"Below ₹50,000",10%–20%,Yes,10%–30%,Short-term gains,Above 15%,Stay calm and buy more,Sell to cut losses,25%–50%,Large-cap,Diversified portfolio,Occasionally,Moderate,Sometimes
+"₹50,000–₹1,00,000",Less than 10%,"No, but working on it",10%–30%,Steady returns,10%–15%,Stay calm and buy more,Hold the stock,25%–50%,Small-cap,Sector-specific,Occasionally,Low,Extensive
+"₹50,000–₹1,00,000",More than 20%,Yes,None or less than 10%,Long-term wealth creation,Above 15%,Stay calm and buy more,Hold the stock,25%–50%,Mid-cap,Diversified portfolio,Occasionally,High,Extensive
+"Below ₹50,000",More than 20%,No,10%–30%,Long-term wealth creation,Below 10%,Stay calm and buy more,Hold the stock,More than 50%,Small-cap,Diversified portfolio,Rarely,Low,Extensive
+"₹50,000–₹1,00,000",Less than 10%,No,10%–30%,Short-term gains,10%–15%,Stay calm and buy more,Hold the stock,25%–50%,Mid-cap,Diversified portfolio,Frequently,Moderate,Sometimes
+"Below ₹50,000",10%–20%,No,None or less than 10%,Long-term wealth creation,Above 15%,Stay calm and buy more,Hold the stock,More than 50%,Mid-cap,Diversified portfolio,Occasionally,Moderate,Rarely
+"Above ₹1,00,000",Less than 10%,Yes,10%–30%,Long-term wealth creation,10%–15%,Stay calm and buy more,Hold the stock,Less than 25%,Large-cap,Diversified portfolio,Occasionally,Low,Rarely
+"Below ₹50,000",Less than 10%,Yes,None or less than 10%,Short-term gains,10%–15%,Stay calm and buy more,Increase investment,More than 50%,Small-cap,General market,Frequently,Moderate,Rarely
+"₹50,000–₹1,00,000",Less than 10%,No,10%–30%,Short-term gains,Above 15%,Panic and sell,Sell to cut losses,25%–50%,Small-cap,Diversified portfolio,Rarely,Moderate,Sometimes
+"₹50,000–₹1,00,000",10%–20%,Yes,10%–30%,Short-term gains,Above 15%,Hold and wait,Hold the stock,More than 50%,Small-cap,Sector-specific,Occasionally,High,Sometimes
+"₹50,000–₹1,00,000",10%–20%,No,None or less than 10%,Steady returns,10%–15%,Hold and wait,Hold the stock,Less than 25%,Large-cap,Sector-specific,Occasionally,High,Sometimes
+"₹50,000–₹1,00,000",Less than 10%,No,None or less than 10%,Long-term wealth creation,10%–15%,Hold and wait,Sell to cut losses,25%–50%,Large-cap,General market,Rarely,Low,Rarely
+"Below ₹50,000",Less than 10%,No,10%–30%,Long-term wealth creation,10%–15%,Hold and wait,Hold the stock,25%–50%,Mid-cap,Sector-specific,Rarely,Moderate,Extensive
+"Above ₹1,00,000",More than 20%,Yes,10%–30%,Steady returns,10%–15%,Stay calm and buy more,Increase investment,More than 50%,Mid-cap,General market,Occasionally,Moderate,Rarely
+"Above ₹1,00,000",Less than 10%,Yes,More than 30%,Steady returns,Below 10%,Hold and wait,Sell to cut losses,Less than 25%,Mid-cap,Diversified portfolio,Rarely,Moderate,Sometimes
+"Above ₹1,00,000",Less than 10%,No,10%–30%,Long-term wealth creation,10%–15%,Hold and wait,Hold the stock,More than 50%,Small-cap,General market,Occasionally,High,Sometimes
+"Above ₹1,00,000",10%–20%,Yes,None or less than 10%,Short-term gains,10%–15%,Hold and wait,Hold the stock,Less than 25%,Large-cap,Diversified portfolio,Occasionally,High,Rarely
+"₹50,000–₹1,00,000",More than 20%,Yes,None or less than 10%,Long-term wealth creation,Below 10%,Hold and wait,Increase investment,More than 50%,Mid-cap,General market,Occasionally,Moderate,Sometimes
+"Above ₹1,00,000",Less than 10%,"No, but working on it",10%–30%,Long-term wealth creation,10%–15%,Stay calm and buy more,Hold the stock,More than 50%,Mid-cap,Diversified portfolio,Occasionally,Moderate,Rarely
+"Below ₹50,000",10%–20%,No,None or less than 10%,Long-term wealth creation,Above 15%,Stay calm and buy more,Hold the stock,More than 50%,Mid-cap,Diversified portfolio,Frequently,High,Rarely
+"Below ₹50,000",10%–20%,"No, but working on it",10%–30%,Long-term wealth creation,Above 15%,Stay calm and buy more,Hold the stock,25%–50%,Small-cap,Diversified portfolio,Rarely,Moderate,Sometimes
+"Below ₹50,000",Less than 10%,"No, but working on it",More than 30%,Long-term wealth creation,10%–15%,Hold and wait,Sell to cut losses,25%–50%,Small-cap,Diversified portfolio,Rarely,High,Extensive
+"₹50,000–₹1,00,000",10%–20%,Yes,10%–30%,Long-term wealth creation,10%–15%,Hold and wait,Hold the stock,More than 50%,Large-cap,Diversified portfolio,Frequently,Moderate,Sometimes
+"₹50,000–₹1,00,000",Less than 10%,"No, but working on it",None or less than 10%,Long-term wealth creation,10%–15%,Stay calm and buy more,Increase investment,Less than 25%,Small-cap,General market,Rarely,High,Rarely
+"Below ₹50,000",10%–20%,No,10%–30%,Steady returns,Above 15%,Panic and sell,Hold the stock,25%–50%,Mid-cap,General market,Frequently,Moderate,Extensive
+"Above ₹1,00,000",10%–20%,Yes,10%–30%,Steady returns,Above 15%,Hold and wait,Increase investment,25%–50%,Small-cap,Diversified portfolio,Frequently,Moderate,Sometimes
+"₹50,000–₹1,00,000",10%–20%,"No, but working on it",10%–30%,Steady returns,Above 15%,Stay calm and buy more,Hold the stock,25%–50%,Mid-cap,Diversified portfolio,Occasionally,Moderate,Sometimes
+"Below ₹50,000",Less than 10%,No,More than 30%,Short-term gains,Above 15%,Stay calm and buy more,Increase investment,25%–50%,Small-cap,Diversified portfolio,Frequently,High,Rarely
+"₹50,000–₹1,00,000",More than 20%,"No, but working on it",None or less than 10%,Long-term wealth creation,10%–15%,Stay calm and buy more,Hold the stock,25%–50%,Mid-cap,Diversified portfolio,Rarely,High,Extensive
+"Below ₹50,000",Less than 10%,"No, but working on it",More than 30%,Long-term wealth creation,Above 15%,Stay calm and buy more,Hold the stock,More than 50%,Large-cap,Sector-specific,Rarely,Moderate,Rarely
+"Above ₹1,00,000",Less than 10%,"No, but working on it",More than 30%,Short-term gains,10%–15%,Stay calm and buy more,Sell to cut losses,More than 50%,Small-cap,Sector-specific,Occasionally,Moderate,Rarely
+"Below ₹50,000",Less than 10%,Yes,None or less than 10%,Long-term wealth creation,Below 10%,Stay calm and buy more,Hold the stock,Less than 25%,Mid-cap,Diversified portfolio,Frequently,Moderate,Extensive
+"Above ₹1,00,000",10%–20%,Yes,None or less than 10%,Short-term gains,Above 15%,Stay calm and buy more,Sell to cut losses,Less than 25%,Mid-cap,Sector-specific,Frequently,High,Extensive
+"Above ₹1,00,000",10%–20%,No,None or less than 10%,Long-term wealth creation,10%–15%,Stay calm and buy more,Increase investment,25%–50%,Mid-cap,Sector-specific,Occasionally,Moderate,Rarely
+"Below ₹50,000",Less than 10%,No,None or less than 10%,Short-term gains,10%–15%,Panic and sell,Sell to cut losses,More than 50%,Large-cap,Sector-specific,Rarely,Low,Extensive
+"Below ₹50,000",10%–20%,No,None or less than 10%,Long-term wealth creation,Above 15%,Stay calm and buy more,Increase investment,25%–50%,Large-cap,Sector-specific,Occasionally,Moderate,Rarely
+"Above ₹1,00,000",Less than 10%,No,10%–30%,Short-term gains,10%–15%,Hold and wait,Hold the stock,25%–50%,Small-cap,Sector-specific,Frequently,High,Sometimes
+"Above ₹1,00,000",10%–20%,"No, but working on it",None or less than 10%,Steady returns,Below 10%,Hold and wait,Hold the stock,More than 50%,Small-cap,General market,Occasionally,Moderate,Extensive
+"Above ₹1,00,000",Less than 10%,"No, but working on it",None or less than 10%,Short-term gains,Below 10%,Panic and sell,Increase investment,More than 50%,Small-cap,Diversified portfolio,Occasionally,High,Rarely
+"Above ₹1,00,000",10%–20%,"No, but working on it",More than 30%,Long-term wealth creation,Above 15%,Stay calm and buy more,Increase investment,Less than 25%,Mid-cap,Diversified portfolio,Occasionally,High,Sometimes
+"Below ₹50,000",Less than 10%,"No, but working on it",None or less than 10%,Steady returns,Below 10%,Stay calm and buy more,Hold the stock,25%–50%,Small-cap,Diversified portfolio,Frequently,Low,Sometimes
+"₹50,000–₹1,00,000",More than 20%,"No, but working on it",More than 30%,Short-term gains,10%–15%,Panic and sell,Hold the stock,More than 50%,Mid-cap,Sector-specific,Occasionally,High,Sometimes
+"Below ₹50,000",Less than 10%,"No, but working on it",None or less than 10%,Steady returns,Above 15%,Panic and sell,Hold the stock,More than 50%,Mid-cap,General market,Occasionally,Moderate,Sometimes
+"Above ₹1,00,000",Less than 10%,No,None or less than 10%,Steady returns,10%–15%,Panic and sell,Hold the stock,More than 50%,Mid-cap,Diversified portfolio,Rarely,Moderate,Extensive
+"₹50,000–₹1,00,000",Less than 10%,Yes,10%–30%,Steady returns,Below 10%,Stay calm and buy more,Hold the stock,25%–50%,Large-cap,Sector-specific,Frequently,Moderate,Sometimes
+"₹50,000–₹1,00,000",More than 20%,Yes,10%–30%,Long-term wealth creation,10%–15%,Stay calm and buy more,Increase investment,More than 50%,Small-cap,Diversified portfolio,Occasionally,Moderate,Rarely
+"Below ₹50,000",More than 20%,Yes,More than 30%,Steady returns,Above 15%,Hold and wait,Hold the stock,More than 50%,Small-cap,General market,Rarely,High,Extensive
+"₹50,000–₹1,00,000",Less than 10%,"No, but working on it",10%–30%,Steady returns,10%–15%,Panic and sell,Increase investment,Less than 25%,Large-cap,General market,Frequently,Moderate,Sometimes
+"₹50,000–₹1,00,000",10%–20%,Yes,More than 30%,Short-term gains,Above 15%,Hold and wait,Sell to cut losses,More than 50%,Mid-cap,Diversified portfolio,Rarely,Moderate,Sometimes
+"Above ₹1,00,000",More than 20%,Yes,None or less than 10%,Long-term wealth creation,Above 15%,Hold and wait,Hold the stock,25%–50%,Mid-cap,Diversified portfolio,Occasionally,High,Rarely
+"₹50,000–₹1,00,000",10%–20%,"No, but working on it",None or less than 10%,Long-term wealth creation,Above 15%,Stay calm and buy more,Hold the stock,More than 50%,Mid-cap,Sector-specific,Frequently,Moderate,Extensive
+"Above ₹1,00,000",10%–20%,Yes,10%–30%,Short-term gains,Above 15%,Hold and wait,Hold the stock,More than 50%,Small-cap,General market,Frequently,High,Rarely
+"₹50,000–₹1,00,000",Less than 10%,"No, but working on it",More than 30%,Short-term gains,Above 15%,Stay calm and buy more,Sell to cut losses,More than 50%,Large-cap,Sector-specific,Occasionally,High,Sometimes
+"Below ₹50,000",Less than 10%,Yes,More than 30%,Long-term wealth creation,Above 15%,Stay calm and buy more,Increase investment,Less than 25%,Large-cap,General market,Frequently,Moderate,Extensive
+"Above ₹1,00,000",More than 20%,Yes,10%–30%,Steady returns,10%–15%,Hold and wait,Hold the stock,Less than 25%,Mid-cap,Diversified portfolio,Occasionally,High,Extensive
+"Above ₹1,00,000",More than 20%,No,None or less than 10%,Long-term wealth creation,Above 15%,Hold and wait,Hold the stock,Less than 25%,Small-cap,Diversified portfolio,Frequently,Moderate,Extensive
+"₹50,000–₹1,00,000",10%–20%,Yes,10%–30%,Long-term wealth creation,Above 15%,Stay calm and buy more,Hold the stock,25%–50%,Mid-cap,Diversified portfolio,Occasionally,Moderate,Sometimes
+"Above ₹1,00,000",Less than 10%,Yes,None or less than 10%,Long-term wealth creation,Below 10%,Stay calm and buy more,Increase investment,25%–50%,Mid-cap,Sector-specific,Frequently,Low,Sometimes
+"₹50,000–₹1,00,000",Less than 10%,"No, but working on it",More than 30%,Long-term wealth creation,10%–15%,Hold and wait,Sell to cut losses,More than 50%,Small-cap,Sector-specific,Rarely,High,Rarely
+"₹50,000–₹1,00,000",10%–20%,"No, but working on it",More than 30%,Steady returns,10%–15%,Stay calm and buy more,Sell to cut losses,More than 50%,Large-cap,Sector-specific,Rarely,High,Sometimes
+"₹50,000–₹1,00,000",More than 20%,Yes,10%–30%,Long-term wealth creation,Above 15%,Hold and wait,Hold the stock,Less than 25%,Small-cap,Sector-specific,Rarely,High,Extensive
+"Below ₹50,000",More than 20%,"No, but working on it",10%–30%,Short-term gains,Above 15%,Stay calm and buy more,Hold the stock,More than 50%,Large-cap,Diversified portfolio,Occasionally,Moderate,Sometimes
+"Below ₹50,000",10%–20%,Yes,10%–30%,Short-term gains,Above 15%,Hold and wait,Sell to cut losses,More than 50%,Mid-cap,Diversified portfolio,Frequently,Moderate,Rarely

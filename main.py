@@ -1,6 +1,8 @@
-def main():
-    print('Hello World')
+import pandas as pd
 
-if __name__ == "__main__":
-    main()
+# Read the CSV file
+user_data = pd.read_csv("Sample_Risk_Appetite_Data.csv")
+
+# View the first 5 rows
+user_data.head()
 
